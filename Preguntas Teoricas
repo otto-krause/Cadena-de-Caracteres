@@ -1,0 +1,9 @@
+1) La funcion "gets_s()" se utiliza para poder ingresar y leer cadenas de texto.
+2) La función "puts()" sirve para poder mostrar la cadena de texto ya ingresada.
+3) Si, ya que la función printf() también sirve para mostrar variables.
+4) Si se puede utilizar, pero no conviene cuando se lo utiliza para las cadenas de texto ya que puede desbordar la cadena de caracteres.
+5) La función devolvería la longitud de una cadena, básicamente sirve para poder calcular la longitud de una cadena especificada.
+6) La función atoi sirve para poder cambiar la variable char a una int.
+7) No ingresaría la variable ya que no es un numero entero, devolviendo como error sin poder realizar la cuenta determinada.
+8) Esta función sirve para comparar cadenas de caracteres, si son iguales, el valor dado ser 0, si la primera cadena es mayor nos dará un valor positivo, pero si es menor
+nos dará un valor negativo.
